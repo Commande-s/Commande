@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Resource Include="Img\Icons\Search_Logo.png" />
+    <Resource Include="Img\Category%27s\Dessert_Icon.png" />
+    <Resource Include="Img\Category%27s\Dishes_Icon.png" />
+    <Resource Include="Img\Category%27s\Combo_Icon.png" />
+    <Resource Include="Img\Category%27s\Drinks_Logo.png" />
+    <Resource Include="Img\Icons\Commande_Logo.png" />
+  </ItemGroup>
+
+</Project>
