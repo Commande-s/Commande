@@ -17,4 +17,8 @@
     <Resource Include="Img\Icons\Commande_Logo.png" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Supabase" Version="1.1.1" />
+  </ItemGroup>
+
 </Project>
